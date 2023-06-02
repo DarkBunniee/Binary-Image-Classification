@@ -9,7 +9,9 @@ The main objective of this project, developed for my client Abhishek Ganguly, is
 
 ## Dataset
 The dataset used in this binary image classification project consists of a collection of images. Each image is labeled with either a positive or negative class, representing the two distinct categories we aim to classify.
- Drive URL : 
+
+ Drive URL : https://drive.google.com/drive/folders/1dLrCrI1R7Ej2Pu-rzAsBXNGKJedoGkSc?usp=sharing
+ 
 ## Setup
 To run the code for this binary image classification project in Google Colab, please follow these steps:
 
