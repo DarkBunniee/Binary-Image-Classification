@@ -25,9 +25,9 @@ URL: https://colab.research.google.com/drive/1ItSk1yvWFkg7j3i_lO2jIValhJwHn08Y?u
 
 
 ## Screenshots
-![EDA  Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![CVIR  Screenshot](./CVIR.png)
 
-![EDA 2 Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![CVIR 2 Screenshot](./CVIR2.PNG)
 
 ## Installation
 - Launch Google Colab and upload the Jupyter notebook (Image_Classification.ipynb) provided in this repository.
