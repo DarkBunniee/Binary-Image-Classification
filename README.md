@@ -1,5 +1,5 @@
 
-![Google Collab Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Google Collab Screenshot](./googlecollab.png)
 
 # Binary Image Classification in Machine Learning using Google Colab
 
